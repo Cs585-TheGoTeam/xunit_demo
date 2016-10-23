@@ -1,0 +1,4 @@
+package maths
+
+func main() {
+}
