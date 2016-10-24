@@ -9,7 +9,7 @@ func Fibonacci(qty int) []int {
 	return fib
 }
 
-func Average(numbers []float64) float64{
+func Mean(numbers []float64) float64{
 	sum := float64(0)
 	for _, x := range numbers{
 		sum += x

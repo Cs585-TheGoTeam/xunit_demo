@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("Finding average for [1, 2, 3, 4]")
 
 	numbers := []float64{1, 2, 3, 4}
-	avg := maths.Average(numbers)
+	avg := maths.Mean(numbers)
 
 	fmt.Println(avg)
 }
