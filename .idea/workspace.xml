@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4baf5e39-dcc0-4a2a-b721-fa178ffe89a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/main.go" afterPath="$PROJECT_DIR$/main/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maths/maths.go" afterPath="$PROJECT_DIR$/maths/maths.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maths/maths_test.go" afterPath="$PROJECT_DIR$/maths/maths_test.go" />
     </list>
@@ -29,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_project.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_project.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="16" column="0" selection-start-line="8" selection-start-column="4" selection-end-line="20" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -52,18 +40,18 @@
       <file leaf-file-name="maths.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maths/maths.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="57">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maths_test.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="maths_test.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/maths/maths_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="577">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="e#15#36#0" expanded="true" />
               </folding>
@@ -84,9 +72,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/main/main.go" />
         <option value="$PROJECT_DIR$/maths/maths.go" />
         <option value="$PROJECT_DIR$/maths/maths_test.go" />
-        <option value="$PROJECT_DIR$/main/main.go" />
       </list>
     </option>
   </component>
@@ -210,7 +198,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Go Single File.go run main.go">
+  <component name="RunManager" selected="Go Test.Maths Test">
     <configuration default="false" name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="xunit_demo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -733,44 +721,44 @@
       <updated>1477255689128</updated>
       <workItem from="1477255691439" duration="28000" />
       <workItem from="1477255719921" duration="108000" />
-      <workItem from="1477276783118" duration="2033000" />
+      <workItem from="1477276783118" duration="3603000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_'xunit_demo' - 2016.10.23 at 19h 55m 09s.xml">
-      <configuration name="All in 'xunit_demo'" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 00m 33s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 01m 20s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 03m 52s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 05m 12s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 05m 21s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 05m 35s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Maths_Test - 2016.10.23 at 20h 06m 30s.xml">
-      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="Maths_Test - 2016.10.23 at 20h 08m 28s.xml">
       <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
     </history-entry>
     <history-entry file="Maths_Test - 2016.10.23 at 20h 08m 42s.xml">
       <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 32m 06s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 33m 13s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 35m 51s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 35m 55s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 37m 56s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 38m 16s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 38m 25s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Maths_Test - 2016.10.23 at 20h 38m 51s.xml">
+      <configuration name="Maths Test" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2169000" />
+    <option name="totallyTimeSpent" value="3739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1606" height="874" extended-state="6" />
@@ -908,29 +896,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maths/maths_test.go">
+    <entry file="file://$PROJECT_DIR$/main/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="e#15#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="16" column="0" selection-start-line="8" selection-start-column="4" selection-end-line="20" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maths/maths.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/main.go">
+    <entry file="file://$PROJECT_DIR$/maths/maths_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="577">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
